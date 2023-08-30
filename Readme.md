@@ -1,0 +1,1 @@
+This is a fullstack todo app using React, Express, Node and Mongo MERN STACK.
